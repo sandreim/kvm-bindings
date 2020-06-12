@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.0-2]
+
+Use versionize/versionize_derive from crates.io.
+
 ## [0.2.0-1]
 
 Built on top of upstream rust-vmm/kvm-bindings v0.2.0.
