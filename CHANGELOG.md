@@ -2,7 +2,9 @@
 
 ## [0.2.0-2]
 
-Use versionize/versionize_derive from crates.io.
+### Changed
+
+- Updated to `versionize` from crates.io.
 
 ## [0.2.0-1]
 
