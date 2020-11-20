@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0-3]
+
+### Changed
+
+- Upgraded to versionize 0.1.4.
+- Implemented Versionize trait for some unions as versionize_derive no longer
+  generates union serialization code.
+
 ## [0.3.0-2]
 
 ### Added
